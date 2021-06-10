@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_Nhom12", "btapCalculator_TTNT(coHa)_nhom12\Calculator_Nhom12.csproj", "{0F8CE12E-9EBB-4F69-95A0-4A4D26E1DE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8CE12E-9EBB-4F69-95A0-4A4D26E1DE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8CE12E-9EBB-4F69-95A0-4A4D26E1DE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8CE12E-9EBB-4F69-95A0-4A4D26E1DE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8CE12E-9EBB-4F69-95A0-4A4D26E1DE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E05CFD-3556-4E83-8DAD-2B18DCEF16C8}
+	EndGlobalSection
+EndGlobal
