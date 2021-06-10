@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\bin\Debug\btapCalculator_TTNT(coHa)_nhom12.exe.config
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\bin\Debug\btapCalculator_TTNT(coHa)_nhom12.exe
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\bin\Debug\btapCalculator_TTNT(coHa)_nhom12.pdb
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT_coHa__nhom12.Form1.resources
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT_coHa__nhom12.Properties.Resources.resources
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT(coHa)_nhom12.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT(coHa)_nhom12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT(coHa)_nhom12.exe
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT(coHa)_nhom12.pdb
+C:\Users\Admin\source\repos\btapCalculator_TTNT(coHa)_nhom12\btapCalculator_TTNT(coHa)_nhom12\obj\Debug\btapCalculator_TTNT(coHa)_nhom12.csproj.AssemblyReference.cache
