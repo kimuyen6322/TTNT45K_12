@@ -8,7 +8,7 @@ Create table DanhMucMon
 	TenDanhMuc nvarchar(50),
 )
 --Thu don
-Create table ThucDon
+Create table Mon
 (
 	IDMon int IDENTITY(1,1) primary key,
 	Mon nvarchar(50),
@@ -46,24 +46,8 @@ create table Ban
 	IDBan int IDENTITY(1,1) primary key,
 	TinhTrangBan nvarchar(15) not null default 'Trong',
 )
---Hoa Don
-create table HoaDon
-(
-	IDHoaDon int IDENTITY(1,1) primary key,
-	SoLuong int,
-	TongTien float,
-	TinhTrang nvarchar(50) not null default 'Chua thanh toan',
-	IDNhanVien int foreign key (IDNhanVien) references NhanVien,
-	IDBan int foreign key (IDBan) references Ban,
-)
---Chi tiet hoa don 
-Create table ChiTietHoaDon
-(
-	IDHoaDon int foreign key (IDHoaDon) references HoaDon,
-	IDMon int foreign key (IDMon) references ThucDon,
-	NgayThanhToan date,
-	primary key(IDHoaDon,IDMon),
-)
+
+
 insert into DanhMucMon values
 ('Coffee'),
 ('Milk tea'),
